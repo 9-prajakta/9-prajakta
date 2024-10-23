@@ -23,10 +23,9 @@
 
 
 - **Back-End Development**:
-  ![Express](https://img.shields.io/badge/Express%20-%231572B6.svg?style=for-the-badge&logo=express&logoColor=white)
+
   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP%20-%231572B6.svg?style=for-the-badge&logo=php&logoColor=white&color=697ab1)
-  ![Node](https://img.shields.io/badge/Node%20-%231572B6.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 
 - **Data Analysis**:
   ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -36,7 +35,7 @@
   ![Seaborn](https://img.shields.io/badge/Seaborn-%230E4F73.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 
 - **Data Visualization**:
-  ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C94C.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+  ![Tableau](https://img.shields.io/badge/Power%20BI-%23F2C94C.svg?style=for-the-badge&logo=powerbi&logoColor=black)
 
 - **Languages**:
   ![Java](https://img.shields.io/badge/JAVA%20-%2300599C.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -45,40 +44,29 @@
 - **Databases**:
   ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 - **Cloud Hosting**:
   ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white&color=black)
   ![Netlify](https://img.shields.io/badge/netlify%20-%231572B6.svg?style=for-the-badge&logo=netlify&logoColor=white&color=black)
 
 - **Development Tools**:
-  ![Wordpress](https://img.shields.io/badge/Wordpress-0078d7.svg?style=for-the-badge&logo=wordpress&logoColor=white&color=31363b)
+
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
   ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </p>
 
-<br>
 
-## 🚀 Projects
-Here are some highlights from my repositories:
-
-- [🔗 **Ice Cream Shop Clone**](https://ice-cream-shop-clone.netlify.app/)  
-  An HTML, CSS, and JavaScript project for an ice cream shop to order ice cream.
-
-- [🔗 **Biryani Shop**](https://jayhomecookedbiryani.netlify.app/)  
-  A React.js and Node.js project for a biryani shop to order biryani.
-
-<br>
 
 ## 💬 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/aditya-vazarkar-9a7a271b0)
-- 🌐 [Portfolio](https://adityavazarkar.github.io/port-folio/#services0)
+- 💼 [LinkedIn](https://www.linkedin.com/in/prajakta-malpote-4b9b1917b/)
+- 🌐 [Mail](prajaktamalpote@gmail.com)
 
 <br>
 
@@ -86,5 +74,5 @@ Here are some highlights from my repositories:
 <!--START_SECTION:waka-->
 ```text
 Java        10 hrs  ░░░░░░░░░░░░░░░░░░░ 40.0%
-React Js    8 hrs   ░░░░░░░░░░░░░░░░░░░ 30.0%
-Node Js     2 hrs   ░░░░░░░░░░░░░░░░░░░ 30.0%
+Python      8 hrs   ░░░░░░░░░░░░░░░░░░░ 30.0%
+Snowflake   2 hrs   ░░░░░░░░░░░░░░░░░░░ 30.0%
