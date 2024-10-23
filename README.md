@@ -34,7 +34,7 @@
   ![Seaborn](https://img.shields.io/badge/Seaborn-%230E4F73.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 
 - **Data Visualization**:
-  ![Tableau](https://img.shields.io/badge/Power%20BI-%23F2C94C.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 - **Languages**:
   ![Java](https://img.shields.io/badge/JAVA%20-%2300599C.svg?style=for-the-badge&logo=java&logoColor=white)
