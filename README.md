@@ -1,49 +1,32 @@
 # Hi, I'm Sudha Muthi! 👋
 
-Welcome to my GitHub profile! I am a passionate software developer with experience in various technologies, including **Spring Boot**, **Angular**, **PostgreSQL**, **MongoDB**, and more. I enjoy building web applications, creating efficient backend systems, and exploring new technologies to solve problems.
+### 🚀 About Me
+- 🔭 I’m currently working on a Spring Boot and Angular project
+- 🌱 I’m learning MongoDB and PostgreSQL
+- 👯 I’m looking to collaborate on open-source projects
+- 💬 Ask me about Spring Security, Angular, or full-stack development
 
-## 🛠️ Technologies & Tools
+### 🛠️ Tech Stack
+- 💻 Frontend: ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+- 🔧 Backend: ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+- 🗄️ Databases: ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-- **Languages**: Java, TypeScript, JavaScript, SQL
-- **Backend**: Spring Boot, Spring Security, RESTful APIs
-- **Frontend**: Angular, Angular Material, HTML, CSS
-- **Databases**: PostgreSQL, MongoDB
-- **Tools & Platforms**: Git, GitHub, IntelliJ IDEA, VS Code, Docker
+### 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Understanding Spring Security](https://yourblog.com/spring-security)
+- [Creating a REST API with Spring Boot](https://yourblog.com/spring-boot-api)
+<!-- BLOG-POST-LIST:END -->
 
-## 🌱 What I'm Currently Working On
+### 📊 GitHub Stats
+![Sudha's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
-- Developing a **Spring Boot and Angular** application for user authentication and OTP verification.
-- Implementing form validation for a **loan application system** using **Angular Material**.
-- Enhancing skills in **full-stack development** and exploring cloud services.
+[![Sudha's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=react-dark)](https://github.com/your-username)
 
-## 🚀 Projects
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=your-username.visitor-badge)
 
-Here are some of my projects that I'm proud of:
+### 📫 How to reach me
+- Email: sudha.muthi@example.com
+- LinkedIn: [Sudha Muthi](https://www.linkedin.com/in/your-profile/)
+- Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
 
-### 🔒 [User Registration and OTP Verification](https://github.com/yourusername/project-name)
-A Spring Boot and Angular application for user registration, login, and OTP-based verification. 
-- **Frontend**: Angular with Angular Material
-- **Backend**: Spring Boot, Spring Security
-- **Database**: PostgreSQL
-
-### 📄 [Loan Application Form](https://github.com/yourusername/loan-application-form)
-A dynamic loan application form built with Angular and Angular Material, including form validation and alerts.
-
-### 🏫 [Student Records Management](https://github.com/yourusername/student-records-management)
-A MongoDB-based project for managing student records with functionalities for adding, updating, and querying data.
-
-## 📫 Get in Touch
-
-- **Email**: [sudha@example.com](mailto:sudha@example.com)
-- **LinkedIn**: [Sudha Muthi](https://www.linkedin.com/in/sudha-muthi/)
-- **Portfolio**: [sudhamuthi.dev](https://sudhamuthi.dev)
-
-## 📊 GitHub Stats
-
-![Sudha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
-⭐️ From [Sudha Muthi](https://github.com/yourusername)
+![Coding GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
