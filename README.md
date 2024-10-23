@@ -7,8 +7,8 @@
 
 
 - 🔭 A passionate self-taught Full Stack Java Developer
-- 💬 Ask me about React, Java, Next.js, Node.js, MongoDB, Firebase
-- 🌱 Currently doing an internship as a Web Developer at EncryptedCyberTech
+- 💬 Ask me about Java, HTML,CSS,SQL, MongoDB, Snowflake
+- 🌱 Currently doing an Full time job as Data engineer associate
 
 <br>
 
