@@ -6,7 +6,7 @@
 **About Me**
 
 
-- 🔭 A passionate self-taught Full Stack Java Developer
+- 🔭 A passionate self-taught Software developer
 - 💬 Ask me about Java, HTML,CSS,SQL, MongoDB, Snowflake
 - 🌱 Currently doing an Full time job as Data engineer associate
 
