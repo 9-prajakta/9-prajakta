@@ -53,7 +53,6 @@ Here are some highlights from my repositories:
 
 ## 💬 Connect With Me
 
-- 🐦 [Twitter](https://twitter.com/your-profile)
 - 💼 [LinkedIn](https://linkedin.com/in/your-profile)
 - 🌐 [Portfolio](https://your-website.com)
 
