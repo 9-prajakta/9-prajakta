@@ -5,7 +5,6 @@
 
 **About Me**
 
-<p><img align="right" src="https://raw.githubusercontent.com/b1ink0/b1ink0/main/assets/animation_500.gif" alt="adam-pw" width="200"/></p>
 
 - 🔭 A passionate self-taught Full Stack Java Developer
 - 💬 Ask me about React, Java, Next.js, Node.js, MongoDB, Firebase
