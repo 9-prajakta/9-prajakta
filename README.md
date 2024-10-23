@@ -23,7 +23,6 @@
 
 
 - **Back-End Development**:
-
   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 
