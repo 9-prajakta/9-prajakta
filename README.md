@@ -1,32 +1,72 @@
-# Hi, I'm Sudha Muthi! 👋
+# 👋 Hello, I'm Sudha Muthi!
 
-### 🚀 About Me
-- 🔭 I’m currently working on a Spring Boot and Angular project
-- 🌱 I’m learning MongoDB and PostgreSQL
-- 👯 I’m looking to collaborate on open-source projects
-- 💬 Ask me about Spring Security, Angular, or full-stack development
+Welcome to my GitHub profile! I'm a passionate developer with a knack for building web applications and solving complex problems. I specialize in **Spring Boot**, **Angular**, **PostgreSQL**, and **MongoDB**. 
 
-### 🛠️ Tech Stack
-- 💻 Frontend: ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-- 🔧 Backend: ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-- 🗄️ Databases: ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+Feel free to explore my repositories and reach out if you'd like to collaborate or chat about tech. 🚀
 
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Understanding Spring Security](https://yourblog.com/spring-security)
-- [Creating a REST API with Spring Boot](https://yourblog.com/spring-boot-api)
-<!-- BLOG-POST-LIST:END -->
+---
 
-### 📊 GitHub Stats
-![Sudha's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+## 🔍 About Me
+- 💻 **Full-Stack Developer** experienced in **Spring Boot** and **Angular**.
+- 🌱 Constantly learning and exploring new technologies.
+- 📝 Working on **projects involving registration, login, and OTP verification**.
+- 🔍 Interested in **open source contributions** and **collaborative projects**.
 
-[![Sudha's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=react-dark)](https://github.com/your-username)
+---
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=your-username.visitor-badge)
+## 🛠️ Tech Stack
 
-### 📫 How to reach me
-- Email: sudha.muthi@example.com
-- LinkedIn: [Sudha Muthi](https://www.linkedin.com/in/your-profile/)
-- Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+### Languages & Frameworks:
+- **Backend:** Java, Spring Boot
+- **Frontend:** Angular, TypeScript, JavaScript
+- **Database:** PostgreSQL, MongoDB
 
-![Coding GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+### Tools & Platforms:
+- **Version Control:** Git & GitHub
+- **Cloud Services:** AWS, Heroku
+- **Dev Tools:** Visual Studio Code, IntelliJ IDEA
+- **Others:** Docker, Kubernetes
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SudhaMuthi&show_icons=true&theme=radical" alt="Sudha's GitHub stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhaMuthi&theme=radical" alt="GitHub Streak" width="48%"/>
+</p>
+
+---
+
+## 🚀 Projects
+Here are some highlights from my repositories:
+
+- [🔗 **Loan Application Form Validation**](https://github.com/your-repo-link)  
+  An Angular project that validates loan application forms using Angular Material, with real-time error messages for missing or invalid fields.
+
+- [🔗 **Registration & OTP Verification System**](https://github.com/your-repo-link)  
+  A complete system for user registration, login, and OTP verification built with Spring Boot and Angular.
+
+- [🔗 **Student Management System (MongoDB)**](https://github.com/your-repo-link)  
+  A full-featured student management system using MongoDB for data storage and retrieval.
+
+---
+
+## 💬 Connect With Me
+
+- 🐦 [Twitter](https://twitter.com/your-profile)
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 🌐 [Portfolio](https://your-website.com)
+
+---
+
+## 🏆 Achievements & Badges
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SudhaMuthi&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+## 📊 Weekly Coding Stats
+<!--START_SECTION:waka-->
+```text
+Java        10 hrs  ░░░░░░░░░░░░░░░░░░░ 50.0%
+TypeScript  8 hrs   ░░░░░░░░░░░░░░░░░░░ 40.0%
+Other       2 hrs   ░░░░░░░░░░░░░░░░░░░ 10.0%
