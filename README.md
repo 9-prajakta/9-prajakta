@@ -1,71 +1,90 @@
-# 👋 Hello, I'm Sudha Muthi!
+<h1 align="center"><b>Hi, I'm Aditya Vazarkar</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-Welcome to my GitHub profile! I'm a passionate developer with a knack for building web applications and solving complex problems. I specialize in **Spring Boot**, **Angular**, **PostgreSQL**, and **MongoDB**. 
+## <picture><img src="https://raw.githubusercontent.com/b1ink0/b1ink0/main/assets/about_me.gif" width="50px"></picture> **About Me**
 
-Feel free to explore my repositories and reach out if you'd like to collaborate or chat about tech. 🚀
+<p><img align="right" src="https://raw.githubusercontent.com/b1ink0/b1ink0/main/assets/animation_500.gif" alt="adam-pw" width="200"/></p>
 
----
+- 🔭 A passionate self-taught Full Stack Java Developer
+- 💬 Ask me about React, Java, Next.js, Node.js, MongoDB, Firebase
+- 🌱 Currently doing an internship as a Web Developer at EncryptedCyberTech
 
-## 🔍 About Me
-- 💻 **Full-Stack Developer** experienced in **Spring Boot** and **Angular**.
-- 🌱 Constantly learning and exploring new technologies.
-- 📝 Working on **projects involving registration, login, and OTP verification**.
-- 🔍 Interested in **open source contributions** and **collaborative projects**.
+<br>
 
----
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **Skills**
 
-## 🛠️ Tech Stack
-
-### Languages & Frameworks:
-- **Backend:** Java, Spring Boot
-- **Frontend:** Angular, TypeScript, JavaScript
-- **Database:** PostgreSQL, MongoDB
-
-### Tools & Platforms:
-- **Version Control:** Git & GitHub
-- **Cloud Services:** AWS, Heroku
-- **Dev Tools:** Visual Studio Code, IntelliJ IDEA
-- **Others:** Docker, Kubernetes
-
----
-
-## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SudhaMuthi&show_icons=true&theme=radical" alt="Sudha's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhaMuthi&theme=radical" alt="GitHub Streak" width="48%"/>
+  
+- **Front-End Development**:
+  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React%20-%231572B6.svg?style=for-the-badge&logo=react&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+  ![Tailwind](https://img.shields.io/badge/Tailwind%20-%231572B6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white&color=blue)
+
+- **Back-End Development**:
+  ![Express](https://img.shields.io/badge/Express%20-%231572B6.svg?style=for-the-badge&logo=express&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP%20-%231572B6.svg?style=for-the-badge&logo=php&logoColor=white&color=697ab1)
+  ![Node](https://img.shields.io/badge/Node%20-%231572B6.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+- **Data Analysis**:
+  ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-%231DAA00.svg?style=for-the-badge&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%230C4C1A.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+  ![Seaborn](https://img.shields.io/badge/Seaborn-%230E4F73.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+
+- **Data Visualization**:
+  ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C94C.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+
+- **Languages**:
+  ![Java](https://img.shields.io/badge/JAVA%20-%2300599C.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
+- **Databases**:
+  ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+- **Cloud Hosting**:
+  ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white&color=black)
+  ![Netlify](https://img.shields.io/badge/netlify%20-%231572B6.svg?style=for-the-badge&logo=netlify&logoColor=white&color=black)
+
+- **Development Tools**:
+  ![Wordpress](https://img.shields.io/badge/Wordpress-0078d7.svg?style=for-the-badge&logo=wordpress&logoColor=white&color=31363b)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
 </p>
 
----
+<br>
 
 ## 🚀 Projects
 Here are some highlights from my repositories:
 
-- [🔗 **Loan Application Form Validation**](https://github.com/your-repo-link)  
-  An Angular project that validates loan application forms using Angular Material, with real-time error messages for missing or invalid fields.
+- [🔗 **Ice Cream Shop Clone**](https://ice-cream-shop-clone.netlify.app/)  
+  An HTML, CSS, and JavaScript project for an ice cream shop to order ice cream.
 
-- [🔗 **Registration & OTP Verification System**](https://github.com/your-repo-link)  
-  A complete system for user registration, login, and OTP verification built with Spring Boot and Angular.
+- [🔗 **Biryani Shop**](https://jayhomecookedbiryani.netlify.app/)  
+  A React.js and Node.js project for a biryani shop to order biryani.
 
-- [🔗 **Student Management System (MongoDB)**](https://github.com/your-repo-link)  
-  A full-featured student management system using MongoDB for data storage and retrieval.
-
----
+<br>
 
 ## 💬 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🌐 [Portfolio](https://your-website.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aditya-vazarkar-9a7a271b0)
+- 🌐 [Portfolio](https://adityavazarkar.github.io/port-folio/#services0)
 
----
+<br>
 
-## 🏆 Achievements & Badges
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SudhaMuthi&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
----
-
-## 📊 Weekly Coding Stats
+# 📊 Weekly Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Java        10 hrs  ░░░░░░░░░░░░░░░░░░░ 50.0%
-TypeScript  8 hrs   ░░░░░░░░░░░░░░░░░░░ 40.0%
-Other       2 hrs   ░░░░░░░░░░░░░░░░░░░ 10.0%
+Java        10 hrs  ░░░░░░░░░░░░░░░░░░░ 40.0%
+React Js    8 hrs   ░░░░░░░░░░░░░░░░░░░ 30.0%
+Node Js     2 hrs   ░░░░░░░░░░░░░░░░░░░ 30.0%
