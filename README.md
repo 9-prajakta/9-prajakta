@@ -6,8 +6,8 @@
 **About Me**
 
 
-- 🔭 A passionate self-taught Software developer
-- 💬 Ask me about Java, HTML,CSS,SQL, MongoDB, Snowflake
+- 🔭 A passionate self-taught Data engineer
+- 💬 Ask me about SQL, Snowflake, PowerBI, Tableau
 - 🌱 Currently doing an Full time job as Data engineer associate
 
 <br>
@@ -16,15 +16,9 @@
 
 <p align="center">
   
-- **Front-End Development**:
-  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-- **Back-End Development**:
-  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
-
+- **Data Warehoue**:
+  ![Snowflake](https://img.shields.io/badge/Snowflake%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 - **Data Analysis**:
   ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -42,8 +36,6 @@
 
 - **Databases**:
   ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
 
 - **Cloud Hosting**:
   ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white&color=black)
