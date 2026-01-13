@@ -17,17 +17,17 @@
 <p align="center">
   
 - **Data Warehoue**:
-  ![Snowflake](https://img.shields.io/badge/Snowflake%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![Snowflake](https://img.shields.io/badge/Snowflake%20-%23E34F26.svg?style=for-the-badge&logo=Snowflake&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL%20-%231572B6.svg?style=for-the-badge&logo=SQL&logoColor=white)
 
 - **Data Analysis**:
   ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
   ![Pandas](https://img.shields.io/badge/Pandas-%231DAA00.svg?style=for-the-badge&logo=pandas&logoColor=white)
   ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%230C4C1A.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-  ![Seaborn](https://img.shields.io/badge/Seaborn-%230E4F73.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 
 - **Data Visualization**:
+  ![Power BI](https://img.shields.io/badge/PwoerBI-%230E4F73.svg?style=for-the-badge&logo=powerBI&logoColor=white)
   ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 - **Languages**:
@@ -39,14 +39,12 @@
 
 - **Cloud Hosting**:
   ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white&color=black)
-  ![Netlify](https://img.shields.io/badge/netlify%20-%231572B6.svg?style=for-the-badge&logo=netlify&logoColor=white&color=black)
 
 - **Development Tools**:
 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
   ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
   ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
