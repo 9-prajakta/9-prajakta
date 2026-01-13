@@ -27,7 +27,7 @@
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%230C4C1A.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 - **Data Visualization**:
-  ![Power BI](https://img.shields.io/badge/PwoerBI-%230E4F73.svg?style=for-the-badge&logo=powerBI&logoColor=white)
+  ![Power BI](https://img.shields.io/badge/PowerBI-%230E4F73.svg?style=for-the-badge&logo=powerBI&logoColor=white)
   ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 - **Languages**:
